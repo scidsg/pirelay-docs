@@ -12,6 +12,4 @@
 - [Features](./features/index.md)
 - [Resources](./resources/index.md)
 - [Glossary](./glossary.md)
-<!-- - [Reading messages](./reading-messages.md) -->
-<!-- - [Troubleshooting](./troubleshooting.md) -->
 
