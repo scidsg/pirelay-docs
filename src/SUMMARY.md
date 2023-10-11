@@ -3,7 +3,6 @@
 ## CONTENTS
 - [Introduction](./intro.md)
 - [Prerequisites](./prereqs/index.md)
-   - [General](./prereqs/general.md)
    - [Raspberry Pi](./prereqs/raspberrypi.md)
 - [Installation](./installation/index.md)
     - [Types of Relays](./installation/relay-types.md)
