@@ -1,8 +1,8 @@
 # 🤫 Hush Line Docs
 
-This repository contains documentation for installing and running [Hush Line](https://github.com/scidsg/hushline), a free and open-source, self-hosted anonymous tip line that makes it easy for organizations or individuals to install and use.
+This repository contains documentation for installing and running [Hush Line](https://github.com/scidsg/pi-relay), a free and open-source, self-hosted anonymous tip line that makes it easy for organizations or individuals to install and use.
 
-**Currently, you can [read the documentation here](https://scidsg.github.io/hushline-docs/book/intro.html).**
+**Currently, you can [read the documentation here](https://scidsg.github.io/pirelay-docs/book/intro.html).**
 
 This documentation is built using [mdBook](https://github.com/rust-lang/mdBook) (v0.4.34).
 
