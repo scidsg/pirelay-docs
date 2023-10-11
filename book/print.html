@@ -248,7 +248,7 @@
 <div style="break-before: page; page-break-before: always;"></div><h1 id="installing-pi-relay-1"><a class="header" href="#installing-pi-relay-1">Installing Pi Relay</a></h1>
 <p>Pi Relay is made for Raspberry Pi and uses an e-paper display to show real-time information about your relay's activity.</p>
 <p>To start the installer, enter:</p>
-<p><code>curl -sSL https://install.pirelay.computer | bash</code></p>
+<p><code>curl --proto '=https' --tlsv1.2 -sSfL https://install.pirelay.computer | bash</code></p>
 <h2 id="choose-your-relay-type"><a class="header" href="#choose-your-relay-type">Choose Your Relay Type</a></h2>
 <p>After the install script begins, you'll choose the kind of relay you want to configure. Making the right decision for your installation environment will be necessary.</p>
 <p>Before proceeding, read about the <a href="installation/relay-types.html">different kinds of relays</a>.</p>

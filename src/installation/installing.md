@@ -4,7 +4,7 @@ Pi Relay is made for Raspberry Pi and uses an e-paper display to show real-time 
 
 To start the installer, enter:
 
-`curl -sSL https://install.pirelay.computer | bash`
+`curl --proto '=https' --tlsv1.2 -sSfL https://install.pirelay.computer | bash`
 
 ## Choose Your Relay Type
 
