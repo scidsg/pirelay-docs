@@ -30,9 +30,9 @@ Insert your microSD card into your computer, and then click `Choose Storage` and
 
 Before clicking Write, click on the Settings gear in the bottom right of the window. Configure the following settings:
 
-- Hostname = hushline
+- Hostname = `pirelay`
 - Enable SSH with password authentication
-- User = hush
+- User = `operator`
 - Set a strong password
 - Add wifi settings
 
@@ -50,7 +50,7 @@ Plug the power supply into the device and let it boot up.
 
 On a Mac, open Spotlight search by pressing CMD + Space. Enter "Terminal" and select the application with the same name. 
 
-Enter `ssh hush@hushline.local`, and when prompted, enter the password you created in the second step.
+Enter `ssh operator@pirelay.local`, and when prompted, enter the password you created in the second step.
 
 <img src="../img/21-terminal-login.png">
 
